@@ -191,6 +191,7 @@ El coach o jedi master te dará el ok para que puedas empezar.
 |Testeos de prototipos| Sesiones de testing de la solución propuesta con al menos 5 usuarios. | 60 |
 |Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
+|| Total |  290 |
 
 ## Guía de preguntas para la entrevista
 Cuéntame sobre tu negocio 
@@ -209,7 +210,7 @@ Cuéntame sobre tu negocio
 13. Tú administras tu fan page de facebook o tienes un community manager?
 
 ## Conclusión de la entrevista
-Fue sencillo citar a la dueña del negocio **Le Pastel Bakery** ya que el negocio es pequeño y la misma dueña estaba disponible. Nos reunimos en un Starbucks para realizar la entrevista, fue muy amigable, colaboró respndiendo las preguntas, que fueron variando respecto a las respuestas de la clienta para que sea de forma más natural posible a una conversación más que a un cuestionario. **Le Pastel Bakery** es una pastelería que realiza pedidos a delivery y pick up, aún no cuenta con local, nos comentó que le gustaría mucho agregarle a su servicio que sea tipo cafetería y poder recibir a sus clientes ya que antes ella ha trabajo en contacto con el público.
+Fue sencillo citar a la dueña del negocio **Le Pastel Bakery** ya que el negocio está en crecimiento y la misma dueña estaba disponible. Nos reunimos en un Starbucks para realizar la entrevista, fue muy amigable, colaboró respndiendo las preguntas, que fueron variando respecto a las respuestas de la clienta para que sea de forma más natural posible a una conversación más que a un cuestionario. **Le Pastel Bakery** es una pastelería que realiza pedidos a delivery y pick up, aún no cuenta con local, nos comentó que le gustaría mucho agregarle a su servicio que sea tipo cafetería y poder recibir a sus clientes ya que antes ella ha trabajo en contacto con el público.
 
 Pudimos identificar que **Le Pastel Bakery** es su pasión, y que hace con esmero su trabajo, tomando en cuenta todo el proceso para tener un buen resultado nos resaltó que la calidad de sus ingredientes es algo elemental, desde la elección de la harina, los frutos.
 
@@ -218,17 +219,14 @@ Actualmente es su hermana la que ve la línea gráfica de la empresa, quien mane
 ## Benchmark
 Revisando la competencia o industrias similares:
 
-|Marca|Tipo de atención|Link|Delivery
+|Marca|Tipo de atención|Delivery
 |:----|:---|:---:|:---|
-|Pasteleria Fina Mariate|Atiende en Local, atiende por whatsapp correo telefono 5 sedes venta por redes sociales tiene stock disponible: si |http://www.pasteleriamariate.com.pe/|si|
-|Paula Patelería Fina| atiende en local - Recojo - Pedidos en Línea (Whatsapp facebook teléfono)
- | https://www.facebook.com/paulapasteleriafina/ |si|
-|D’Ilse| pedidos - recojo y envío - pedidos en linea (whatsapp, teléfono, correo)
- | https://www.facebook.com/DeIlsePeru/ | si |
-|501 / Tienda, 
-pedidos, recojo (en línea teléfono)|https://www.facebook.com/pg/501pasteleria.artesanal/photos/?ref=page_internal|no |
-|ARAWI| pedidos online |http://www.arawi.pe/ | si |
-|Miscelánea Dulces| Pedidos (al whatsapp) | https://es-la.facebook.com/MiscelaneaDulces/ | si |
+|Pasteleria Fina Mariate|Atiende en Local, atiende por whatsapp correo telefono 5 sedes venta por redes sociales tiene stock disponible: http://www.pasteleriamariate.com.pe/|si|
+|Paula Patelería Fina| atiende en local - Recojo - Pedidos en Línea (Whatsapp facebook teléfono) https://www.facebook.com/paulapasteleriafina/ |si|
+|D’Ilse| pedidos - recojo y envío - pedidos en linea (whatsapp, teléfono, correo) https://www.facebook.com/DeIlsePeru/ | si |
+|501 / Tienda, pedidos, recojo (en línea teléfono) https://www.facebook.com/pg/501pasteleria.artesanal/photos/?ref=page_internal|no |
+|ARAWI| pedidos online http://www.arawi.pe/ | si |
+|Miscelánea Dulces| Pedidos (al whatsapp) https://es-la.facebook.com/MiscelaneaDulces/ | si |
 
 
 ## Entrega
