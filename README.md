@@ -193,6 +193,13 @@ El coach o jedi master te dará el ok para que puedas empezar.
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
 || Total |  290 |
 
+## Planificación
+Para poder empezar a hacer todos los puntos elegidos y desarrollar el proceso de UX, tomamos en cuenta hacer una planificación en Trello y así puedan ver los pasos a seguir con límite de tiempo para cumplir con el deadline.
+
+Aquí link de planificación en Trello [Click aquí](https://trello.com/b/B908O8bz/le-pastel-bakery)<br>
+
+ ![Foto](image/planificaciontrello.png)<br>
+
 ## Guía de preguntas para la entrevista
 Cuéntame sobre tu negocio 
 1. ¿Qué te motivó a crear tu empresa?
