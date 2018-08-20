@@ -196,7 +196,6 @@ El coach o jedi master te dará el ok para que puedas empezar.
 
 ## Le Pastel Bakery
 Es una pasteleria Artesanal de excelente calidad. Cuenta con servicio de Delivery y Pick-up.<br>
-
  ![Foto](image/logolepastelbakery.png)<br>
 
 ## Planificación
