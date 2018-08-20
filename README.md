@@ -219,7 +219,7 @@ Actualmente es su hermana la que ve la línea gráfica de la empresa, quien mane
 ## Benchmark
 Revisando la competencia o industrias similares:
 
-|Marca|Tipo de atención|Delivery
+|Marca|Tipo de atención|Delivery|
 |:----|:---|:---:|:---|
 |Pasteleria Fina Mariate|Atiende en Local, atiende por whatsapp correo telefono 5 sedes venta por redes sociales tiene stock disponible: http://www.pasteleriamariate.com.pe/|si|
 |Paula Patelería Fina| atiende en local - Recojo - Pedidos en Línea (Whatsapp facebook teléfono) https://www.facebook.com/paulapasteleriafina/ |si|
