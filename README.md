@@ -199,7 +199,6 @@ Es una pasteleria Artesanal de excelente calidad. Cuenta con servicio de Deliver
 
  ![Foto](image/logolepastelbakery.png)<br>
 
-
 ## Planificación
 Para poder empezar a hacer todos los puntos elegidos y desarrollar el proceso de UX, tomamos en cuenta hacer una planificación en Trello y así puedan ver los pasos a seguir con límite de tiempo para cumplir con el deadline.
 
