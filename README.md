@@ -193,6 +193,13 @@ El coach o jedi master te dará el ok para que puedas empezar.
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
 || Total |  290 |
 
+
+## Le Pastel Bakery
+Es una pasteleria Artesanal de excelente calidad. Cuenta con servicio de Delivery y Pick-up.<br>
+
+ ![Foto](image/logolepastelbakery.png)<br>
+
+
 ## Planificación
 Para poder empezar a hacer todos los puntos elegidos y desarrollar el proceso de UX, tomamos en cuenta hacer una planificación en Trello y así puedan ver los pasos a seguir con límite de tiempo para cumplir con el deadline.
 
@@ -201,6 +208,7 @@ Aquí link de planificación en Trello [Click aquí](https://trello.com/b/B908O8
  ![Foto](image/planificaciontrello.png)<br>
 
 ## Guía de preguntas para la entrevista
+
 Cuéntame sobre tu negocio 
 1. ¿Qué te motivó a crear tu empresa?
 2. ¿Cuál es tu diferenciación con otras empresas del mismo rubro?
