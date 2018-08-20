@@ -23,14 +23,9 @@ Nos han contactado de la Asociación Nacional de Pequeños Comerciantes, una
 asociación que agrupa a pequeñas y medianas empresas productoras y fabricantes
 de alimentos naturales, postres, accesorios, vestimenta y calzado, y nos piden
 que asesoremos a **uno** de sus miembros en crear un portal desde donde los
-consumidores compren sus productos sin intermediarios. Entre los miembros puedes
-elegir a: 
+consumidores compren sus productos sin intermediarios: 
 
-- [Sr. Roos](https://www.facebook.com/Sr-Roos-879800158792372/)
-- [Sophie Crown](https://www.facebook.com/sophiecrownboutique/) 
 - [Le Pastel Bakery](https://www.instagram.com/lepastelbakery/)
-- [Delivery Fruta La Grande](https://www.facebook.com/Delivery-Fruta-La-Grande-143207576316285/)
-- [Closet911](https://www.facebook.com/closet911.pe/)
 
 Luego de elegir con qué miembro trabajarás, la ANPC te pide que ayudes a ese
 miembro a hacer un estudio inicial de cómo debería ser este portal de ventas y
