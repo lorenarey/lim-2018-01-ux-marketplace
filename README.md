@@ -225,7 +225,7 @@ Cuéntame sobre tu negocio
 ## Conclusión de la entrevista
 Fue sencillo citar a la dueña del negocio **Le Pastel Bakery** ya que el negocio está en crecimiento y la misma dueña estaba disponible. Nos reunimos en un Starbucks para realizar la entrevista, fue muy amigable, colaboró respndiendo las preguntas, que fueron variando respecto a las respuestas de la clienta para que sea de forma más natural posible a una conversación más que a un cuestionario. **Le Pastel Bakery** es una pastelería que realiza pedidos a delivery y pick up, aún no cuenta con local, nos comentó que le gustaría mucho agregarle a su servicio que sea tipo cafetería y poder recibir a sus clientes ya que antes ella ha trabajo en contacto con el público.<br>
 
- ![Foto](image/fotoentrevista.jpeg)<br>
+ ![Foto]()<br>
 
 Pudimos identificar que **Le Pastel Bakery** es su pasión, y que hace con esmero su trabajo, tomando en cuenta todo el proceso para tener un buen resultado nos resaltó que la calidad de sus ingredientes es algo elemental, desde la elección de la harina, los frutos.
 
