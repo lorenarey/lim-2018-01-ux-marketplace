@@ -224,7 +224,7 @@ Revisando la competencia o industrias similares:
 | Pastelería Fina Mariate | Atiende en Local, atiende por whatsapp correo teléfono 5 sedes venta por redes sociales tiene stock disponible: http://www.pasteleriamariate.com.pe/ |si|
 | Paula Patelería Fina | atiende en local - Recojo - Pedidos en Línea (Whatsapp facebook teléfono) https://www.facebook.com/paulapasteleriafina/ | si |
 | D’Ilse | pedidos - recojo y envío - pedidos en linea (whatsapp, teléfono, correo) https://www.facebook.com/DeIlsePeru/ |si|
-| 501 Tienda, pedidos, recojo (en línea teléfono) https://www.facebook.com/pg/501pasteleria.artesanal/photos/?ref=page_internal | no |
+| 501 | Tienda, pedidos, recojo (en línea teléfono) https://www.facebook.com/pg/501pasteleria.artesanal/photos/?ref=page_internal | no |
 | ARAWI | pedidos online http://www.arawi.pe/  | si |
 |Miscelánea Dulces| Pedidos (al whatsapp) https://es-la.facebook.com/MiscelaneaDulces/ | si |
 
