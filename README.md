@@ -184,19 +184,66 @@ El coach o jedi master te dará el ok para que puedas empezar.
 
 |Actividad|Descripción|Puntos|
 |:----|:---|:---:|
-|Entendimiento del problema, la industria y el contexto| Entender el contexto del negocio y lo que existe hoy en día respecto de la industria del proyecto. | 15 |
 |Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
 |Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
 |Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
-|Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | 35 |
-|Inventario de contenidos| Inventario de todos los contenidos de un producto. | 15 |
 |Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
-|Card Sorting| Actividad para entender el modelo mental de los usuarios en términos de organización de los contenidos. | 15 |
-|Testeo de soluciones actuales de la competencia| Sesiones de testing de productos actuales de la competencia para ver qué atributos valoran los usuarios. Al menos 5 usuarios.| 50 |
 |Testeos de prototipos| Sesiones de testing de la solución propuesta con al menos 5 usuarios. | 60 |
 |Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
-|Prototipado de contenido| Prototipado y testeo del contenido del producto. | 30 |
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
+|| Total |  290 |
+
+
+## Le Pastel Bakery
+Es una pasteleria Artesanal de excelente calidad. Cuenta con servicio de Delivery y Pick-up.<br>
+ ![Fotologo](image/logolepastelbakery.png)<br>
+
+## Planificación
+Para poder empezar a hacer todos los puntos elegidos y desarrollar el proceso de UX, tomamos en cuenta hacer una planificación en Trello y así puedan ver los pasos a seguir con límite de tiempo para cumplir con el deadline.
+
+Aquí link de planificación en Trello [Click aquí](https://trello.com/b/B908O8bz/le-pastel-bakery)<br>
+
+ ![Foto](image/planificaciontrello.png)<br>
+
+## Guía de preguntas para la entrevista
+
+Cuéntame sobre tu negocio 
+1. ¿Qué te motivó a crear tu empresa?
+2. ¿Cuál es tu diferenciación con otras empresas del mismo rubro?
+3. ¿Cuál es tu visión a corto plazo ?
+4. ¿Cómo utilizas las redes sociales para ventas?
+5. ¿Qué servicios ofreces en las redes sociales?
+6. ¿Podrías decirnos quiénes son tus compradores habituales? (edad, sexo)
+7. ¿Qué te motivó a trabajar con redes sociales?
+8. ¿Cuál es el producto que tiene mayor rotación?
+9. ¿Cómo haces la venta en línea?
+10. ¿Cuéntame sobre tu última venta en línea, cómo te fue?, te funcionó bien?
+11. ¿Quién es su competencia?
+12. ¿Cómo te gustaría proyectar tu imagen en una página web?
+13. Tú administras tu fan page de facebook o tienes un community manager?
+
+## Conclusión de la entrevista
+Fue sencillo citar a la dueña del negocio **Le Pastel Bakery** ya que el negocio está en crecimiento y la misma dueña estaba disponible. Nos reunimos en un Starbucks para realizar la entrevista, fue muy amigable, colaboró respndiendo las preguntas, que fueron variando respecto a las respuestas de la clienta para que sea de forma más natural posible a una conversación más que a un cuestionario. **Le Pastel Bakery** es una pastelería que realiza pedidos a delivery y pick up, aún no cuenta con local, nos comentó que le gustaría mucho agregarle a su servicio que sea tipo cafetería y poder recibir a sus clientes ya que antes ella ha trabajo en contacto con el público.<br>
+
+ ![Foto]()<br>
+
+Pudimos identificar que **Le Pastel Bakery** es su pasión, y que hace con esmero su trabajo, tomando en cuenta todo el proceso para tener un buen resultado nos resaltó que la calidad de sus ingredientes es algo elemental, desde la elección de la harina, los frutos.
+
+Actualmente es su hermana la que ve la línea gráfica de la empresa, quien maneja las redes sociales (facebook e instagram), toma los pedidos en whatsapp y a continuación los planifica para ser entregados en 24 horas. 
+
+## Benchmark
+Revisando la competencia o industrias similares:
+
+|Marca|Tipo de atención|Delivery|
+|:----|:---|:---:|
+| Pastelería Fina Mariate | Atiende en Local, atiende por whatsapp correo teléfono 5 sedes venta por redes sociales tiene stock disponible: http://www.pasteleriamariate.com.pe/ |si|
+| Paula Patelería Fina | atiende en local - Recojo - Pedidos en Línea (Whatsapp facebook teléfono) https://www.facebook.com/paulapasteleriafina/ | si |
+| D’Ilse | pedidos - recojo y envío - pedidos en linea (whatsapp, teléfono, correo) https://www.facebook.com/DeIlsePeru/ |si|
+| 501 | Tienda, pedidos, recojo (en línea teléfono) https://www.facebook.com/pg/501pasteleria.artesanal/photos/?ref=page_internal | no |
+| ARAWI | pedidos online http://www.arawi.pe/  | si |
+|Miscelánea Dulces| Pedidos (al whatsapp) https://es-la.facebook.com/MiscelaneaDulces/ | si |
+
+
 
 ## Entrega
 
