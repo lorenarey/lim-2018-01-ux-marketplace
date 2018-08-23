@@ -236,6 +236,11 @@ Revisando la competencia o industrias similares:
 
 ![Benchmark](image/benchmark.jpg)<br>
 
+## User person
+Estas son las caraterísticas de nuestro user person
+
+![Userperson](image/userperson.png)<br>
+
 ## Entrega
 
 El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
