@@ -195,7 +195,11 @@ El coach o jedi master te dará el ok para que puedas empezar.
 
 
 ## Le Pastel Bakery
-Es una pasteleria Artesanal de excelente calidad. Cuenta con servicio de Delivery y Pick-up.<br>
+Es una pasteleria Artesanal de excelente calidad. Cuenta con servicio de Delivery y Pick-up.
+Este es el logo original de la empresa, que usa en sus redes sociales (Facebook e Instagram)<br>
+ Link del fan page en Facebook: [Click aquí para ver el fan page](https://www.facebook.com/lepastelbakery/)
+ Link de Instagram: [Click aquí para ver en instagram](https://www.instagram.com/lepastelbakery/)
+
  ![Fotologo](image/logolepastelbakery.png)<br>
 
 ## Planificación
@@ -232,15 +236,15 @@ Pudimos identificar que **Le Pastel Bakery** es su pasión, y que hace con esmer
 Actualmente es su hermana la que ve la línea gráfica de la empresa, quien maneja las redes sociales (facebook e instagram), toma los pedidos en whatsapp y a continuación los planifica para ser entregados en 24 horas. 
 
 ## Guía de preguntas para la entrevista con el usuario 
-+ Objetivos
+* **Objetivos**<br>
 Conocer lo que los usuarios valoran al realizar una compra online.
 Entender las necesidades de los usuarios.
 
-+ Introducción
-Hola, Soy [Lorena o Patricia], hoy voy a conversar contigo y que me cuentes un poco sobre tus
-hábitos de compra
+* **Introducción**<br>
+Hola, Soy [Lorena o Patricia], hoy voy a conversar contigo para que me cuentes un poco sobre tus
+hábitos de compra.
 
-+ Guía de preguntas 
+* **Guía de preguntas** <br>
 ¿ Cual es tu nombre?, cuéntame un poco sobre ti, ¿Cómo va  tu día?
 ¿Has comprado  por internet?
 ¿Por qué compras por internet?
@@ -254,7 +258,6 @@ hábitos de compra
 ¿Cómo realizaste el pago?
 ¿Cómo recibiste el pedido?
 Algún detalle o comentario adicional
-
 Gracias por tu tiempo.
 
 ## Benchmark
