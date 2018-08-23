@@ -237,7 +237,7 @@ Revisando la competencia o industrias similares:
 ![Benchmark](image/benchmark.jpg)<br>
 
 ## User person
-Estas son las caraterísticas de nuestro user person
+Estas son las caraterísticas de nuestro user person:
 
 ![Userperson](image/userperson.png)<br>
 
@@ -285,16 +285,23 @@ con las actividades planteadas.
 
 Al definir el producto recuerda pensar en:
 
-* Quiénes son los principales usuarios de producto
-* Cuáles son los objetivos del negocio en relación con el producto
-* Cuáles son los objetivos de estos usuarios en relación con el producto
-* Cuál será la propuesta de valor del sitio que vas a crear
-* Cuáles son los contenidos que el usuarios quiere ver, la información que
-  buscarían para convencerse de comprar, confiar en la empresa que lo ofrece,
-  encontrar lo que busca y comprarlo
-* Cómo vas a distribuir y entregar esos contenidos
-* Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web
-* Cómo crees que el producto les está resolviendo sus problemas
+*  **Quiénes son los principales usuarios de producto**<br>
+
++ Los principales usuarios de **Le Pastel Bakery** son mujeres millennials (entre los 18 y 35 años), aficionadas a los dulces, que llevan una vida activa siendo estudiantes o trabajadoras, además suelen hacer ejercicios como caminatas largas, correr, ir al gimnasio, bailar zumba. Utilizan las redes sociales como Facebook, Instagram, Snapchat, Twitter para comunicarse con frecuencia y subir fotos de las actividades que realizan.
+
+*  **Cuáles son los objetivos del negocio en relación con el producto**<br>
+
++ Los objetivos del negocio **Le Pastel Bakery** son que las personas que consumen sus productos queden satisfechas con la calidad del producto elegido no solo por el sabor sino también por la presentación. También que los usuarios puedan hacer los pedidos que necesiten y recibirlos en el lugar que se encuentren sin necesidad de que vayan a la tienda físicamente. Además, los usuarios tienen la característica de subir a redes sociales lo que les gusta y así puedan compartir una foto del producto con sus amistades, lo que a su vez aumenta la posibilidad de incrementar ventas con la gente que sigue a estos usuarios al ver las recomendaciones positivas del producto y servicio. 
+
+*  **Cuáles son los objetivos de estos usuarios en relación con el producto**<br>
+
++ Los objetivos de los usuarios son que el precio sea accesible, recibir al tiempo acordado su pedido, que tenga un buen sabor y mantenga esa calidad en cada pedido. 
+
+*  **Cuál será la propuesta de valor del sitio que vas a crear**<br>
+*  **Cuáles son los contenidos que el usuarios quiere ver, la información que buscarían para convencerse de comprar, confiar en la empresa que lo ofrece, encontrar lo que busca y comprarlo**<br>
+*  **Cómo vas a distribuir y entregar esos contenidos**<br>
+*  **Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web**<br>
+*  **Cómo crees que el producto les está resolviendo sus problemas**<br>
 
 ### 3) Prototipo de alta fidelidad
 
