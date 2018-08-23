@@ -205,7 +205,7 @@ Aquí link de planificación en Trello [Click aquí](https://trello.com/b/B908O8
 
  ![Foto](image/planificaciontrello.png)<br>
 
-## Guía de preguntas para la entrevista
+## Guía de preguntas para la entrevista con el cliente
 
 Cuéntame sobre tu negocio 
 1. ¿Qué te motivó a crear tu empresa?
@@ -222,7 +222,7 @@ Cuéntame sobre tu negocio
 12. ¿Cómo te gustaría proyectar tu imagen en una página web?
 13. Tú administras tu fan page de facebook o tienes un community manager?
 
-## Conclusión de la entrevista
+## Conclusión de la entrevista con el cliente
 Fue sencillo citar a la dueña del negocio **Le Pastel Bakery** ya que el negocio está en crecimiento y la misma dueña estaba disponible. Nos reunimos en un Starbucks para realizar la entrevista, fue muy amigable, colaboró respndiendo las preguntas, que fueron variando respecto a las respuestas de la clienta para que sea de forma más natural posible a una conversación más que a un cuestionario. **Le Pastel Bakery** es una pastelería que realiza pedidos a delivery y pick up, aún no cuenta con local, nos comentó que le gustaría mucho agregarle a su servicio que sea tipo cafetería y poder recibir a sus clientes ya que antes ella ha trabajo en contacto con el público.<br>
 
  ![FotoEntrevista](image/fotoentrevista.jpeg)<br>
@@ -230,6 +230,32 @@ Fue sencillo citar a la dueña del negocio **Le Pastel Bakery** ya que el negoci
 Pudimos identificar que **Le Pastel Bakery** es su pasión, y que hace con esmero su trabajo, tomando en cuenta todo el proceso para tener un buen resultado nos resaltó que la calidad de sus ingredientes es algo elemental, desde la elección de la harina, los frutos.
 
 Actualmente es su hermana la que ve la línea gráfica de la empresa, quien maneja las redes sociales (facebook e instagram), toma los pedidos en whatsapp y a continuación los planifica para ser entregados en 24 horas. 
+
+## Guía de preguntas para la entrevista con el usuario 
++ Objetivos
+Conocer lo que los usuarios valoran al realizar una compra online.
+Entender las necesidades de los usuarios.
+
++ Introducción
+Hola, Soy [Lorena o Patricia], hoy voy a conversar contigo y que me cuentes un poco sobre tus
+hábitos de compra
+
++ Guía de preguntas 
+¿ Cual es tu nombre?, cuéntame un poco sobre ti, ¿Cómo va  tu día?
+¿Has comprado  por internet?
+¿Por qué compras por internet?
+¿Qué tipo de producto compras con más frecuencia?
+¿Cuándo fue la última vez que compraste por internet? ¿Cómo fue tu experiencia?
+¿Has  pedido alguna vez un postre o torta x internet ? ¿En dónde?
+¿Cómo encontraste o contactaste con la empresa (tienda)?
+¿Por qué la escogiste?
+¿Con qué frecuencia haces un pedido?
+¿Cuéntame sobre tu última experiencia como fue el proceso de compra?
+¿Cómo realizaste el pago?
+¿Cómo recibiste el pedido?
+Algún detalle o comentario adicional
+
+Gracias por tu tiempo.
 
 ## Benchmark
 Revisando la competencia o industrias similares:
