@@ -240,6 +240,9 @@ Actualmente es su hermana la que ve la línea gráfica de la empresa, quien mane
 Conocer lo que los usuarios valoran al realizar una compra online.
 Entender las necesidades de los usuarios.
 
+Este es el link para que escuches los audios de las entrevistas con usuarios:<br>
+[Entrevistas(audios)](https://soundcloud.com/patricia-vidal-136075208/sets/pasteleria-entrevistas-a)<br>
+
 * **Introducción**<br>
 Hola, Soy [Lorena o Patricia], hoy voy a conversar contigo para que me cuentes un poco sobre tus
 hábitos de compra.
@@ -250,7 +253,7 @@ hábitos de compra.
 + ¿Por qué compras por internet?
 + ¿Qué tipo de producto compras con más frecuencia?
 + ¿Cuándo fue la última vez que compraste por internet? ¿Cómo fue tu experiencia?
-+ ¿Has  pedido alguna vez un postre o torta x internet ? ¿En dónde?
++ ¿Has  pedido alguna vez un postre o torta x internet? ¿En dónde?
 + ¿Cómo encontraste o contactaste con la empresa (tienda)?
 + ¿Por qué la escogiste?
 + ¿Con qué frecuencia haces un pedido?
@@ -259,6 +262,7 @@ hábitos de compra.
 + ¿Cómo recibiste el pedido?
 + Algún detalle o comentario adicional
 + Gracias por tu tiempo.
+
 
 ## Benchmark
 Revisando la competencia o industrias similares:
