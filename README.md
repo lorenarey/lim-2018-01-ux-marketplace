@@ -174,13 +174,7 @@ en el caso anterior, para crear y validar la solución puedes realizar muchas
 actividades, depende de ti elegir cuáles son las más adecuadas para el caso y
 los recursos que tienes.
 
-## Implementación
-
-Para poder realizar este proyecto tendrás un presupuesto de 300 puntos. Estos
-puntos los podrás utilizar realizando las actividades del siguiente cuadro.
-Antes de empezar a realizar estas actividades tendrás que sustentar con tu coach
-o jedi master cómo es que distribuirás estos puntos en estas actividades.
-El coach o jedi master te dará el ok para que puedas empezar.
+## Distribución de actividades
 
 |Actividad|Descripción|Puntos|
 |:----|:---|:---:|
@@ -197,7 +191,7 @@ El coach o jedi master te dará el ok para que puedas empezar.
 ## Le Pastel Bakery
 Es una pasteleria Artesanal de excelente calidad. Cuenta con servicio de Delivery y Pick-up.
 Este es el logo original de la empresa, que usa en sus redes sociales (Facebook e Instagram)<br>
- Link del fan page en Facebook: [Click aquí para ver el fan page](https://www.facebook.com/lepastelbakery/)
+ Link del fan page en Facebook: [Click aquí para ver el fan page](https://www.facebook.com/lepastelbakery/)<br>
  Link de Instagram: [Click aquí para ver en instagram](https://www.instagram.com/lepastelbakery/)
 
  ![Fotologo](image/logolepastelbakery.png)<br>
