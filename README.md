@@ -282,11 +282,15 @@ Estas son las caraterísticas de nuestro user person:
 
 ## Sketch (version mobil y web)
 
-Link de las vistas de sketch para mobil y web: [Click aquí](https://drive.google.com/drive/folders/1zymIPiwLwGnDxMbJs32mi2z07w6BqDVG?usp=sharing)
+Link de las vistas de sketch para mobil y web: <br>
+
+[Click aquí para ver web](https://drive.google.com/drive/folders/1zymIPiwLwGnDxMbJs32mi2z07w6BqDVG?usp=sharing)
 
 ## Prototipo de alta fidelidad (version mobil y web)
 
-Link de las vistas de prototipo de alta fidelidad: [Click aquí](https://drive.google.com/drive/folders/1__RmBjhLr-o4nctBK9q66hXr9SGFuhdF?usp=sharing)<br>
+Link de las vistas de prototipo de alta fidelidad: <br>
+[Click aquí para ver mobil](https://xd.adobe.com/view/031a5549-e0c7-4bdc-42fe-5845885afa81-752b/)
+[Click aquí para ver web](https://drive.google.com/drive/folders/1__RmBjhLr-o4nctBK9q66hXr9SGFuhdF?usp=sharing)<br>
 
 Link de interacción en marvel para web: [Click aquí](https://marvelapp.com/6h2b4h1/screen/47161966)<br>
 
