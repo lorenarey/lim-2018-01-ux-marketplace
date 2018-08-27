@@ -269,7 +269,7 @@ Aquí ordenamos la información relevante de las entrevistas de usuarios, selecc
 
 ## Definición del problema
  A partir del afinity map, tomamos en cuenta la información que recibimos para analizarla y poder obtener un flujo adecuado de los usuario.<br>
- Link para ver la definición del problema: [Click aquí](https://docs.google.com/document/d/1x6X4CoGrw3Te_vZwaeJtJH9Rv7o3cF9R43VuI7ong9E/edit)
+ Link para ver la definición del problema: [Click aquí](https://docs.google.com/document/d/1x6X4CoGrw3Te_vZwaeJtJH9Rv7o3cF9R43VuI7ong9E/edit?usp=sharing)
 
 ## User person
 Estas son las caraterísticas de nuestro user person:
