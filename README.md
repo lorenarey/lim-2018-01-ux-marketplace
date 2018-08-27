@@ -203,6 +203,11 @@ Aquí link de planificación en Trello [Click aquí](https://trello.com/b/B908O8
 
  ![Foto](image/planificaciontrello.png)<br>
 
+## Benchmark
+Revisando la competencia o industrias similares:
+
+![Benchmark](image/benchmark.jpg)<br>
+
 ## Guía de preguntas para la entrevista con el cliente
 
 Cuéntame sobre tu negocio 
@@ -257,16 +262,19 @@ hábitos de compra.
 + Algún detalle o comentario adicional
 + Gracias por tu tiempo.
 
+## Afinity map
+Aquí ordenamos la información relevante de las entrevistas de usuarios, seleccionando los temas de las preguntas para poder ubicar las frustraciones, necesidades respecto a comprar un producto por internet.
 
-## Benchmark
-Revisando la competencia o industrias similares:
-
-![Benchmark](image/benchmark.jpg)<br>
+![Afinitymap](image/afinitymap.jpeg)<br>
 
 ## User person
 Estas son las caraterísticas de nuestro user person:
 
 ![Userperson](image/userperson.png)<br>
+
+## Journey customer map
+
+![Journeycustomer](image/customerjourney.jpg)<br>
 
 ## Entrega
 
@@ -309,8 +317,6 @@ ante tu cliente y ante un coach. Ellos te darán la aprobación final para segui
 con las actividades planteadas.
 
 ### 2) Definición del producto
-
-Al definir el producto recuerda pensar en:
 
 *  **Quiénes son los principales usuarios de producto**<br>
 
