@@ -242,11 +242,11 @@ Entender las necesidades de los usuarios.
 Este es el link para que escuches los audios de las entrevistas con usuarios:<br>
 [Entrevistas(audios)](https://soundcloud.com/patricia-vidal-136075208/sets/pasteleria-entrevistas-a)<br>
 
-* **Introducción**<br>
+**Introducción**<br>
 Hola, Soy [Lorena o Patricia], hoy voy a conversar contigo para que me cuentes un poco sobre tus
 hábitos de compra.
 
-* **Guía de preguntas** <br>
+**Guía de preguntas** <br>
 + ¿ Cual es tu nombre?, cuéntame un poco sobre ti, ¿Cómo va  tu día?
 + ¿Has comprado  por internet?
 + ¿Por qué compras por internet?
@@ -275,6 +275,16 @@ Estas son las caraterísticas de nuestro user person:
 ## Journey customer map
 
 ![Journeycustomer](image/customerjourney.jpg)<br>
+
+## Sketch (version mobil y web)
+
+Link de las vistas de sketch para mobil y web: [Click aquí](https://drive.google.com/drive/folders/1zymIPiwLwGnDxMbJs32mi2z07w6BqDVG?usp=sharing)
+
+## Prototipo de alta fidelidad (version mobil y web)
+
+Link de las vistas de prototipo de alta fidelidad: [Click aquí](https://drive.google.com/drive/folders/1__RmBjhLr-o4nctBK9q66hXr9SGFuhdF?usp=sharing)<br>
+
+Link de interacción en marvel para web: [Click aquí](https://marvelapp.com/6h2b4h1/screen/47161966)<br>
 
 ## Entrega
 
