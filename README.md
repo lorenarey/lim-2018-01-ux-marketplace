@@ -22,157 +22,12 @@ todos puedan beneficiarse en el camino.
 Nos han contactado de la Asociación Nacional de Pequeños Comerciantes, una
 asociación que agrupa a pequeñas y medianas empresas productoras y fabricantes
 de alimentos naturales, postres, accesorios, vestimenta y calzado, y nos piden
-que asesoremos a **uno** de sus miembros en crear un portal desde donde los
-consumidores compren sus productos sin intermediarios: 
+que asesoremos a **Le Pastel Bakery** en crear un portal desde donde los
+consumidores compren sus productos sin intermediarios. 
 
-- [Le Pastel Bakery](https://www.instagram.com/lepastelbakery/)
-
-Luego de elegir con qué miembro trabajarás, la ANPC te pide que ayudes a ese
-miembro a hacer un estudio inicial de cómo debería ser este portal de ventas y
-cómo deben ofrecer los productos a los consumidores. Quieren que averigües cómo
-son los consumidores que utilizaría este canal de venta y cuáles son sus
+La ANPC te pide que ayudes a **Le Pastel Bakery** a hacer un estudio inicial de cómo debería ser este portal de ventas y cómo deben ofrecer los productos a los consumidores. Averiguar cómo son los consumidores que utilizaría este canal de venta y cuáles son sus
 motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas
 una visión de cómo podría plantearse este nuevo canal de ventas.
-
-Una vez conozcas a los posibles compradores debes formular una propuesta de
-valor. Esto quiere decir que debes pensar cómo este portal va a comunicar sus
-beneficios a los usuarios y cómo va a vender sus productos. Para que guíes a la
-empresa que elijas a entender tu visión, esperan que les hagas una propuesta de
-cómo podría ser el portal donde las personas puedan buscar, ver, elegir y
-comprar sus productos.
-
-## Objetivos de aprendizaje
-
-El objetivo principal de aprendizaje de este proyecto es entender cómo pasamos
-de lo que un cliente quiere alcanzar a la definición de un producto digital en
-poco tiempo. Entender los principales pasos y preguntas que debemos hacernos,
-cómo involucrar a los usuarios y su feedback y cómo usar esos resultados sin
-perder de vista los objetivos iniciales.
-Esperamos que en este proyecto puedas entender las necesidades y falencias de
-las empresas, aprender y empezar a empaparte de los posibles modelos de negocio
-así como investigar a su audiencia, los usuarios que consumen sus productos,
-entendiendo sus preferencias y contexto en el que lo hacen.
-
-De la misma manera deberás definir cuál es la mejor forma de ofrecerle los
-productos de tu cliente a sus usuarios, y, pensando en una propuesta de valor y
-sus objetivos. También, deberás definir los contenidos, la interacción y el
-diseño del proceso a partir del cual el usuario podrá hacer sus pedidos en esta
-plataforma.
-Este proyecto se debe "resolver" en parejas, por lo que un objetivo importante
-es ganar experiencia en trabajos con entrega grupal. Cada uno de las integrantes
-será responsable de una parte del trabajo: (1) el entendimiento del problema y
-(2) planeamiento y validación de la solución.
-
-## Tópicos a cubrir
-
-Para completar este proyecto tendrás que familiarizarte con conceptos como: UX
-research (entrevistas, benchmark), arquitectura de la información (flujo de
-contenido, mapa de sitio), diseño visual y de interacción (wireframes y
-prototipado), y user testing.
-
-## Consideraciones generales
-
-Para ser una gran UX no sólo debes familiarizarte con los conceptos sino,
-también, poner a prueba tus habilidades blandas. El uso de tu curiosidad y
-empatía son claves para el éxito laboral.
-Para poder realizar una buena entrevista, un benchmark o un user testing
-necesitas en todo momento estar atenta al cómo y no sólo al qué. En este
-sentido, es esencial que practiques el modo en que te comunicas frente al
-cliente y el usuario. Debes pensar quiénes son y qué es lo que necesitan, y no
-sólo enfocarte en lo que tú quieres comunicar.
-
-* Relación con el cliente: la empresa miembro con la que te toque trabajar será
-tu cliente. Saber relacionarte con ellos no es fácil. Para comenzar una buena
-relación con el cliente debes escuchar de manera activa qué es lo que necesitan,
-haciendo preguntas que te ayuden a entender sus necesidades para luego buscar
-cómo resolverlas. No trates de dar soluciones inmediatas, escucha y pregunta, la
-curiosidad es clave para entender la problemática. El problema del cliente no
-siempre es el primero que parece, debes investigar la empresa y la competencia
-para entender lo que sucede. Para mantener una buena relación con los clientes
-debes mostrarle cómo se beneficiarán de lo que ofreces; enséñale los posibles
-resultados y el beneficio que ellos podrían obtener. También debes estudiar las
-mejores prácticas en la industria del comercio electrónico para poder mostrarle
-al cliente casos de éxito.
-
-* Benchmark: revisar referencias y dar referencias es clave para tu relación con
-el cliente. Antes de comenzar a crear cualquier producto debes revisar qué está
-haciendo la competencia o industrias similares. De esta manera, puedes traer
-buenas prácticas y evitar replicar aquellas que no son exitosas. Esto al cliente
-le da la confianza de que efectivamente tienes conocimiento de su problemática y
-que has estudiado todas las posibles soluciones. Para que el benchmark sea
-efectivo, tu curiosidad y pensamiento crítico deben ser altos; no sólo buscar
-las referencias que resulten obvias, sino otras industrias que puedan funcionar
-de manera similar o empresas pequeñas que están teniendo casos de éxito.
-
-* Presentación del plan, a dónde vas a ir y por qué: al resolver la problemática
-debes realizar un plan de trabajo, donde se visualicen las herramientas que
-estás utilizando y por qué las escogiste. No todas las problemáticas requieren
-que utilices las mismas herramientas. Debes utilizar la que mejor se ajuste. Es
-importante que siempre sustentes tu idea, no se trata de trabajar de manera
-mecánica para entregar algo al cliente, sino argumentar por qué esa es la mejor
-manera de aproximarse a una posible solución.
-
-* Testing centrado en el usuario: Realizar las pruebas con los usuarios
-garantiza que los problemas se detecten antes, las buenas ideas se introducen
-más rápido y se reducen los esfuerzos de diseño y desarrollo de productos
-innecesarios. Steve Jobs, una vez dijo: "El diseño no es sólo cómo se ve y cómo
-se siente. El diseño es cómo funciona”. Las pruebas de usabilidad son una
-técnica que ayuda a evaluar un producto al probarlo con usuarios reales. El
-testing es una buena forma de profundizar en las necesidades y preferencias de
-los usuarios observando sus reacciones mientras usan un producto. Para que el
-testing realmente esté centrado en el usuario, tú debes centrarte también en él,
-actuando con curiosidad y empatía en todo momento, preguntando de manera activa
-al usuario qué podrías mejorar y buscar aquellos errores que llevarán tu
-producto al siguiente nivel. No trates de que el usuario apruebe tu producto,
-llévalo a buscar las mejoras y posibles errores, generando una relación de
-confianza con el usuario.
-
-Tu curiosidad, empatía y pensamiento crítico son claves para tu éxito como UX
-Designer. En cada herramienta que utilices debes poner a prueba tus soft skills.
-Nunca des nada por supuesto, siempre pregunta hasta encontrar nuevas respuestas,
-debes actuar en todo momento con un pensamiento crítico, sino harás de manera
-mecánica tus proyectos sin encontrar soluciones innovadoras. Sé una
-investigadora, tu curiosidad es clave en los procesos creativos; pregunta
-constantemente y no intentes buscar soluciones inmediatas, aprende a navegar con
-la incertidumbre. La empatía es la habilidad que te va a guiar en las relaciones
-tanto con el cliente como con el usuario, intenta salir de tu mente y tus
-supuestos para entender cómo piensan los otros.
-
-## Parte Obligatoria
-
-### 1) General
-
-En este proyecto necesitarás salir a hablar con usuarios reales y entender
-cuáles son sus necesidades, cómo las resuelven actualmente y proponer una
-solución óptima para resolver estas necesidades. Mientras resuelves el proyecto
-vas a tener que ir documentando las actividades que realices a través de fotos,
-videos, textos y scripts. Utiliza tu en Google Drive para guardar toda esta
-documentación y luego linkea las partes más importantes en el `README.md` de tu
-repositorio en GitHub.
-
-En este caso el README.md será la portada de tu solución final, en él tendrás
-que mostrar la solución final a través de screenshots y podrás compartir links a
-las secciones que detallaremos más adelante.
-
-### 2) Entendimiento del problema
-
-Durante esta parte te asegurarás que el producto que diseñarás es el correcto,
-es decir, que sigue objetivos de negocio y que resuelve necesidades reales de
-los usuarios. Para ello tendrás que entender al cliente (el miembro de la
-Asociación Nacional de Pequeños Comerciantes con quien estás trabajando) y a los
-usuarios. Luego de entender el problema, tendrás que plantear cómo es que vas a
-resolver dicho problema. Para ello puedes realizar muchas actividades, sin
-embargo el tiempo y los recursos que tienes son limitados. Tendrás que elegir
-bien qué actividades realizarás.
-
-### 3) Planteamiento y validación de la solución
-
-Luego de haber definido cómo es que será la solución, es decir qué
-funcionalidades tendrá y por qué, tendrás que implementarla. En este caso,
-tendrás que hacer un prototipo de alta fidelidad y tendrás que validarlo. Cómo
-en el caso anterior, para crear y validar la solución puedes realizar muchas
-actividades, depende de ti elegir cuáles son las más adecuadas para el caso y
-los recursos que tienes.
 
 ## Distribución de actividades
 
@@ -189,12 +44,17 @@ los recursos que tienes.
 
 
 ## Le Pastel Bakery
-Es una pasteleria Artesanal de excelente calidad. Cuenta con servicio de Delivery y Pick-up.
-Este es el logo original de la empresa, que usa en sus redes sociales (Facebook e Instagram)<br>
- Link del fan page en Facebook: [Click aquí para ver el fan page](https://www.facebook.com/lepastelbakery/)<br>
- Link de Instagram: [Click aquí para ver en instagram](https://www.instagram.com/lepastelbakery/)
+Le Pastel Bakery es un negocio de pastelería artesanal en la ciudad de Lima, productos hechos a mano con mucho esmero brindan delicadas presentaciones para toda celebración, estos productos son hechos a pedido y se entregan de manera delivery o pick up.
 
- ![Fotologo](image/logolepastelbakery.png)<br>
+Este es el logo original de la empresa, éstas son sus redes sociales (Facebook e Instagram)<br>
+
+![Fotologo](image/logolepastelbakery.png)<br>
+
+ Link del fan page en Facebook: [Click aquí para ver el fan page](https://www.facebook.com/lepastelbakery/)<br>
+
+ Link de Instagram: [Click aquí para ver en instagram](https://www.instagram.com/lepastelbakery/)<br>
+
+ 
 
 ## Planificación
 Para poder empezar a hacer todos los puntos elegidos y desarrollar el proceso de UX, tomamos en cuenta hacer una planificación en Trello y así puedan ver los pasos a seguir con límite de tiempo para cumplir con el deadline.
@@ -267,10 +127,6 @@ Aquí ordenamos la información relevante de las entrevistas de usuarios, selecc
 
 ![Afinitymap](image/afinitymap.jpeg)<br>
 
-## Definición del problema
- A partir del afinity map, tomamos en cuenta la información que recibimos para analizarla y poder obtener un flujo adecuado de los usuario.<br>
- Link para ver la definición del problema: [Click aquí](https://docs.google.com/document/d/1x6X4CoGrw3Te_vZwaeJtJH9Rv7o3cF9R43VuI7ong9E/edit?usp=sharing)
-
 ## User person
 Estas son las caraterísticas de nuestro user person:
 
@@ -279,6 +135,43 @@ Estas son las caraterísticas de nuestro user person:
 ## Journey customer map
 
 ![Journeycustomer](image/customerjourney.jpg)<br>
+
+## How might we (¿Cómo podríamos?)
+ Tomamos en cuenta la información que recibimos para analizarla y poder obtener un flujo adecuado de los usuario.<br>
+
+ + **¿Cómo generar confianza para que se concluya la compra?**<br>
+Tener testimonios de usuarios frecuentes, que escriban sobre la calidad del producto tanto como del servicio, un espacio para comentarios de los usuarios. 
+
++ **¿Cómo hacer que la compra sea más rápida?**<br>
+Ser una plataforma amigable, sencilla sin muchos pasos y que brinde la información necesaria.
+
++ **¿Cómo hacer que la comunicación sea familiar y personalizada?**<br>
+Utilizando un vocabulario no formal, fácil de entender.
+
++ **¿Cómo hacer que los clientes compren de manera más frecuente?**<br>
+Manteniendo la calidad de los insumos, la presentación y la entrega del mismo. 
+Fidelidad, creando puntos de compra. Ofreciendo descuentos de temporada que inviten a consumir los productos con las frutas de la estación. Promoviendo una cartilla de descuento.
+
++ **¿Cómo incluir el contacto directo entre el cliente y el comprador dentro del proceso de compra?**<br>
+Para tener una respuesta pronta y la comunicación sea fluida, proponemos  linkear whatsapp en la versión de celular y web.
+
++ **¿Cómo permanecer más tiempo en la mente de los consumidores?**<br>
+Linkeando las actualizaciones de las imágenes a las redes sociales.
+
++ **¿Cómo hacer seguimiento a las compras?**<br>
+Por parte del cliente (crear un dashboard con notificaciones, alertas) y del servicio (ver ruta de envío)
+
++ **¿Cómo transmitir la esencia de la empresa a través de la web?**<br>
+La calidad de las fotos, la guía de colores, el vocabulario (la voz)
+
++ **¿Cómo dar a conocer las ofertas de manera efectiva?**<br>
+Visualizando desde un inicio en la web banner con las ofertas.
+
++ **¿Cómo conseguir feedback del usuario?**<br>
+Rank (iconos de cupcakes en vez de estrellas) una vez terminada la entrega del pedido, permitir comentarios en el producto.
+
++ **¿Cómo comunicar la calidad de los insumos al usuario?**<br>
+Con un video corto del proceso de preparación.
 
 ## Sketch (version mobil y web)
 
