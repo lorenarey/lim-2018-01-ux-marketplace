@@ -70,6 +70,12 @@ Revisando la competencia o industrias similares:
 
 ## Guía de preguntas para la entrevista con el cliente
 
+**Introducción**<br>
+Hola, Soy [Lorena o Patricia], estudiantes en laboratoria. Esta entrevista es para conocerte un poco, conocer sobre tu empresa. 
+Antes que nada, ¿estás de acuerdo con que grabemos esta entrevista? Puede ser un video o una grabación de voz. No será usada en otra cosa que no sea esta investigación, la grabación no será publicada, es solo con fines de estudio.
+
+
+**Guía de preguntas** <br>
 Cuéntame sobre tu negocio 
 1. ¿Qué te motivó a crear tu empresa?
 2. ¿Cuál es tu diferenciación con otras empresas del mismo rubro?
@@ -84,13 +90,14 @@ Cuéntame sobre tu negocio
 11. ¿Quién es su competencia?
 12. ¿Cómo te gustaría proyectar tu imagen en una página web?
 13. Tú administras tu fan page de facebook o tienes un community manager?
+Gracias por tomarte un tiempo con nostras.
 
 ## Conclusión de la entrevista con el cliente
-Fue sencillo citar a la dueña del negocio **Le Pastel Bakery** ya que el negocio está en crecimiento y la misma dueña estaba disponible. Nos reunimos en un Starbucks para realizar la entrevista, fue muy amigable, colaboró respndiendo las preguntas, que fueron variando respecto a las respuestas de la clienta para que sea de forma más natural posible a una conversación más que a un cuestionario. **Le Pastel Bakery** es una pastelería que realiza pedidos a delivery y pick up, aún no cuenta con local, nos comentó que le gustaría mucho agregarle a su servicio que sea tipo cafetería y poder recibir a sus clientes ya que antes ella ha trabajo en contacto con el público.<br>
+Nos reunimos en un Starbucks para realizar la entrevista con nuestro cliente, el cliente fue muy amigable, colaboró respondiendo las preguntas que fueron variando según la fluidez de las respuestas que recibíamos de su parte, de modo que fue de forma más natural posible a una conversación más que a un cuestionario. **Le Pastel Bakery** es una pastelería que realiza pedidos a delivery y pick up, aún no cuenta con local, nos comentó que le gustaría mucho agregarle a su servicio que sea tipo cafetería y poder recibir a sus clientes ya que antes ella ha trabajo en contacto con el público y que su experiencia sumaría a tener un negocio más completo.<br>
 
- ![FotoEntrevista](image/fotoentrevista.jpeg)<br>
+![FotoEntrevista](image/fotoentrevista.jpeg)<br> 
 
-Pudimos identificar que **Le Pastel Bakery** es su pasión, y que hace con esmero su trabajo, tomando en cuenta todo el proceso para tener un buen resultado nos resaltó que la calidad de sus ingredientes es algo elemental, desde la elección de la harina, los frutos.
+Pudimos identificar que **Le Pastel Bakery** es su pasión, y que hace con esmero su trabajo, tomando en cuenta todo el proceso para tener un buen resultado nos resaltó que la elección en la calidad de sus ingredientes es algo elemental para crear un buen producto.
 
 Actualmente es su hermana la que ve la línea gráfica de la empresa, quien maneja las redes sociales (facebook e instagram), toma los pedidos en whatsapp y a continuación los planifica para ser entregados en 24 horas. 
 
@@ -99,12 +106,11 @@ Actualmente es su hermana la que ve la línea gráfica de la empresa, quien mane
 Conocer lo que los usuarios valoran al realizar una compra online.
 Entender las necesidades de los usuarios.
 
-Este es el link para que escuches los audios de las entrevistas con usuarios:<br>
-[Entrevistas(audios)](https://soundcloud.com/patricia-vidal-136075208/sets/pasteleria-entrevistas-a)<br>
+Este es el link de los audios de las entrevistas con usuarios:<br>
+[Entrevistas a usuarios (audios)](https://soundcloud.com/patricia-vidal-136075208/sets/pasteleria-entrevistas-a)<br>
 
 **Introducción**<br>
-Hola, Soy [Lorena o Patricia], hoy voy a conversar contigo para que me cuentes un poco sobre tus
-hábitos de compra.
+Hola, Soy [Lorena o Patricia], hoy voy a conversar contigo para que me cuentes un poco sobre tus hábitos de compra.
 
 **Guía de preguntas** <br>
 + ¿ Cual es tu nombre?, cuéntame un poco sobre ti, ¿Cómo va  tu día?
@@ -173,19 +179,17 @@ Rank (iconos de cupcakes en vez de estrellas) una vez terminada la entrega del p
 + **¿Cómo comunicar la calidad de los insumos al usuario?**<br>
 Con un video corto del proceso de preparación.
 
-## Sketch (version mobil y web)
+## Sketch (version mobile y web)
 
-Link de las vistas de sketch para mobil y web: <br>
+Link de las vistas de sketch para mobile y web: <br>
 
 [Click aquí para ver web](https://drive.google.com/drive/folders/1zymIPiwLwGnDxMbJs32mi2z07w6BqDVG?usp=sharing)
 
-## Prototipo de alta fidelidad (version mobil y web)
+## Prototipo de alta fidelidad (version mobile y web)
 
-Link de las vistas de prototipo de alta fidelidad: <br>
-[Click aquí para ver mobil](https://xd.adobe.com/view/031a5549-e0c7-4bdc-42fe-5845885afa81-752b/)
-[Click aquí para ver web](https://drive.google.com/drive/folders/1__RmBjhLr-o4nctBK9q66hXr9SGFuhdF?usp=sharing)<br>
-
-Link de interacción en marvel para web: [Click aquí](https://marvelapp.com/6h2b4h1/screen/47161966)<br>
+Link de las vistas con interacción de prototipo de alta fidelidad: <br>
+[Click aquí para version mobile](https://xd.adobe.com/view/031a5549-e0c7-4bdc-42fe-5845885afa81-752b/)<br>
+[Click aquí para version web](https://marvelapp.com/6h2b4h1/screen/47161966)<br>
 
 ## Entrega
 
