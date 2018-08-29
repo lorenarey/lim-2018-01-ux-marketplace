@@ -171,8 +171,14 @@ Los objetivos de los usuarios son que el precio sea accesible, recibir al tiempo
 La interacción con la empresa es basicamente visual (por web o mobile) es por ello que lo ideal es tener fotos de calidad de los productos que generen confianza por la buena presentación y los comentarios de otros usuarios frecuentes. Lo que el usuario quiere es poder ver la lista de productos para decidirse por uno de ellos para a continuación elegir el sabor y cantidad. Además que el flujo para realizar el pedido sea de fácil acceso y que sea práctico a la hora de concretar el pago.
 
 *  **Cómo vas a distribuir y entregar esos contenidos**<br>
+Colocando primero un menú para distinguir las secciones principales, luego un slide con banner de varias ofertas de los productos que puede escoger el usuario. 
+
 *  **Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web**<br>
+En la sección menú tienda puede encontrar una lista de todos los productos distribuidos con sus respectivos slides que presenten imagenes con nombres de las versiones que hay de dicho producto y los sabores que tienen además de los precios que varían dependiendo de si los frutos son de la temporada. Una vez elegido el producto seleccionando con los botones para realizar el pedido a la dirección que quiere recibir la entrega, eligiendo el método de pago (tarjeta visa, mastercard) concluir con la espera de la entrega del producto.
+
 *  **Cómo crees que el producto les está resolviendo sus problemas**<br>
+El problema que resuelve es que la entrega del producto es el mismo que la foto que presentan en redes sociales, lo que también crea un ambiente de confianza al momento de realizar la acción de compra.
+
 
 ## How might we (¿Cómo podríamos?)
  Tomamos en cuenta la información que recibimos para analizarla y poder obtener un flujo adecuado de los usuario.<br>
