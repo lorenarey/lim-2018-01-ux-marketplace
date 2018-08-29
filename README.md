@@ -1,5 +1,9 @@
 # Plataforma de ventas en línea
 
+## Integrantes
++ Lorena Reyes<br>
++ Patricia Vidal
+
 ## Preámbulo
 
 En el mundo hay muchas formas de vender en línea, el porcentaje de compradores
@@ -46,7 +50,7 @@ una visión de cómo podría plantearse este nuevo canal de ventas.
 ## Le Pastel Bakery
 Le Pastel Bakery es un negocio de pastelería artesanal en la ciudad de Lima, productos hechos a mano con mucho esmero brindan delicadas presentaciones para toda celebración, estos productos son hechos a pedido y se entregan de manera delivery o pick up.
 
-Este es el logo original de la empresa, éstas son sus redes sociales (Facebook e Instagram)<br>
+Este es el logo original de la empresa que usa en sus redes sociales (Facebook e Instagram)<br>
 
 ![Fotologo](image/logolepastelbakery.png)<br>
 
@@ -54,7 +58,6 @@ Este es el logo original de la empresa, éstas son sus redes sociales (Facebook 
 
  Link de Instagram: [Click aquí para ver en instagram](https://www.instagram.com/lepastelbakery/)<br>
 
- 
 
 ## Planificación
 Para poder empezar a hacer todos los puntos elegidos y desarrollar el proceso de UX, tomamos en cuenta hacer una planificación en Trello y así puedan ver los pasos a seguir con límite de tiempo para cumplir con el deadline.
@@ -70,10 +73,16 @@ Revisando la competencia o industrias similares:
 
 ## Guía de preguntas para la entrevista con el cliente
 
+**Objetivos**<br>
+Entender la percepción que el cliente tiene sobre el valor que se generaría para su empresa  al  implementar su e-commerce.
+Entender la diferenciación de su empresa con otras 
+Como este trabajaría conjuntamente con su modelo de negocio existente.
+Conocer todo lo que el cliente conoce entorno a su negocio (servicios, canales de venta, sistema de envío, valor agregado ).
+Establecer objetivos esperados de diseño, obtener referencias de webs que le gusten.
+
 **Introducción**<br>
 Hola, Soy [Lorena o Patricia], estudiantes en laboratoria. Esta entrevista es para conocerte un poco, conocer sobre tu empresa. 
 Antes que nada, ¿estás de acuerdo con que grabemos esta entrevista? Puede ser un video o una grabación de voz. No será usada en otra cosa que no sea esta investigación, la grabación no será publicada, es solo con fines de estudio.
-
 
 **Guía de preguntas** <br>
 Cuéntame sobre tu negocio 
@@ -90,7 +99,7 @@ Cuéntame sobre tu negocio
 11. ¿Quién es su competencia?
 12. ¿Cómo te gustaría proyectar tu imagen en una página web?
 13. Tú administras tu fan page de facebook o tienes un community manager?
-Gracias por tomarte un tiempo con nostras.
+Muchas gracias por compartir con nosotras sobre tu empresa.
 
 ## Conclusión de la entrevista con el cliente
 Nos reunimos en un Starbucks para realizar la entrevista con nuestro cliente, el cliente fue muy amigable, colaboró respondiendo las preguntas que fueron variando según la fluidez de las respuestas que recibíamos de su parte, de modo que fue de forma más natural posible a una conversación más que a un cuestionario. **Le Pastel Bakery** es una pastelería que realiza pedidos a delivery y pick up, aún no cuenta con local, nos comentó que le gustaría mucho agregarle a su servicio que sea tipo cafetería y poder recibir a sus clientes ya que antes ella ha trabajo en contacto con el público y que su experiencia sumaría a tener un negocio más completo.<br>
@@ -102,7 +111,7 @@ Pudimos identificar que **Le Pastel Bakery** es su pasión, y que hace con esmer
 Actualmente es su hermana la que ve la línea gráfica de la empresa, quien maneja las redes sociales (facebook e instagram), toma los pedidos en whatsapp y a continuación los planifica para ser entregados en 24 horas. 
 
 ## Guía de preguntas para la entrevista con el usuario 
-* **Objetivos**<br>
+**Objetivos**<br>
 Conocer lo que los usuarios valoran al realizar una compra online.
 Entender las necesidades de los usuarios.
 
@@ -112,7 +121,7 @@ Este es el link de los audios de las entrevistas con usuarios:<br>
 **Introducción**<br>
 Hola, Soy [Lorena o Patricia], hoy voy a conversar contigo para que me cuentes un poco sobre tus hábitos de compra.
 
-**Guía de preguntas** <br>
+**Guía de preguntas**<br>
 + ¿ Cual es tu nombre?, cuéntame un poco sobre ti, ¿Cómo va  tu día?
 + ¿Has comprado  por internet?
 + ¿Por qué compras por internet?
@@ -128,6 +137,9 @@ Hola, Soy [Lorena o Patricia], hoy voy a conversar contigo para que me cuentes u
 + Algún detalle o comentario adicional
 + Gracias por tu tiempo.
 
+**Conclusión de entrevista con usuarios**<br>
+Definitivamente fue una experiencia enriquecedora obtener información de los usuarios ya que estos son los primeros que interactúan con el producto, quienes evalúan el servicio según su experiencia hacen que el producto se mantenga en pie por el valor que les brinda al satisfacer su necesidad lo que a la vez favorece positivamente a la empresa ya que se logra que se promocione boca a boca y que aumenten los pedidos lo que generaría mayores ingresos y la oportunidad de poder crecer como empresa y generar ese vínculo entre los usuarios y el producto.
+
 ## Afinity map
 Aquí ordenamos la información relevante de las entrevistas de usuarios, seleccionando los temas de las preguntas para poder ubicar las frustraciones, necesidades respecto a comprar un producto por internet.
 
@@ -138,9 +150,29 @@ Estas son las caraterísticas de nuestro user person:
 
 ![Userperson](image/userperson.png)<br>
 
-## Journey customer map
+## Journey customer
 
 ![Journeycustomer](image/customerjourney.jpg)<br>
+
+## Definición del producto
+
+*  **Quiénes son los principales usuarios de producto**<br>
+Los principales usuarios de **Le Pastel Bakery** son mujeres millennials (entre los 18 y 35 años), aficionadas a los dulces, que llevan una vida activa siendo estudiantes o trabajadoras, además suelen hacer ejercicios como caminatas largas, correr, ir al gimnasio, bailar zumba. Utilizan las redes sociales como Facebook, Instagram, Snapchat, Twitter para comunicarse con frecuencia y subir fotos de las actividades que realizan.
+
+*  **Cuáles son los objetivos del negocio en relación con el producto**<br>
+Los objetivos del negocio **Le Pastel Bakery** son que las personas que consumen sus productos queden satisfechas con la calidad del producto elegido no solo por el sabor sino también por la presentación. También que los usuarios puedan hacer los pedidos que necesiten y recibirlos en el lugar que se encuentren sin necesidad de que vayan a la tienda físicamente. Además, los usuarios tienen la característica de subir a redes sociales lo que les gusta y así puedan compartir una foto del producto con sus amistades, lo que a su vez aumenta la posibilidad de incrementar ventas con la gente que sigue a estos usuarios al ver las recomendaciones positivas del producto y servicio. 
+
+*  **Cuáles son los objetivos de estos usuarios en relación con el producto**<br>
+Los objetivos de los usuarios son que el precio sea accesible, recibir al tiempo acordado su pedido, que tenga un buen sabor y mantenga esa calidad en cada pedido. 
+
+*  **Cuál será la propuesta de valor del sitio que vas a crear**<br>
+
+*  **Cuáles son los contenidos que el usuario quiere ver, la información que buscarían para convencerse de comprar, confiar en la empresa que lo ofrece, encontrar lo que busca y comprarlo**<br>
+La interacción con la empresa es basicamente visual (por web o mobile) es por ello que lo ideal es tener fotos de calidad de los productos que generen confianza por la buena presentación y los comentarios de otros usuarios frecuentes. Lo que el usuario quiere es poder ver la lista de productos para decidirse por uno de ellos para a continuación elegir el sabor y cantidad. Además que el flujo para realizar el pedido sea de fácil acceso y que sea práctico a la hora de concretar el pago.
+
+*  **Cómo vas a distribuir y entregar esos contenidos**<br>
+*  **Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web**<br>
+*  **Cómo crees que el producto les está resolviendo sus problemas**<br>
 
 ## How might we (¿Cómo podríamos?)
  Tomamos en cuenta la información que recibimos para analizarla y poder obtener un flujo adecuado de los usuario.<br>
@@ -179,86 +211,22 @@ Rank (iconos de cupcakes en vez de estrellas) una vez terminada la entrega del p
 + **¿Cómo comunicar la calidad de los insumos al usuario?**<br>
 Con un video corto del proceso de preparación.
 
-## Sketch (version mobile y web)
+
+## Sketch (baja fidelidad)
 
 Link de las vistas de sketch para mobile y web: <br>
+[Click aquí para ver sketch mobile y web](https://drive.google.com/drive/folders/1zymIPiwLwGnDxMbJs32mi2z07w6BqDVG?usp=sharing)
 
-[Click aquí para ver web](https://drive.google.com/drive/folders/1zymIPiwLwGnDxMbJs32mi2z07w6BqDVG?usp=sharing)
+## Wireframe (media fidelidad)
 
-## Prototipo de alta fidelidad (version mobile y web)
+## Prototipo (alta fidelidad)
 
 Link de las vistas con interacción de prototipo de alta fidelidad: <br>
 [Click aquí para version mobile](https://xd.adobe.com/view/031a5549-e0c7-4bdc-42fe-5845885afa81-752b/)<br>
 [Click aquí para version web](https://marvelapp.com/6h2b4h1/screen/47161966)<br>
 
-## Entrega
-
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
-
-README.md  explicando el proceso del proyecto:
-* Objetivos del proyecto
-* Problemas identificados en la investigación (del cliente y del usuario)
-* Definición del público objetivo
-    * User persona
-    * Customer Journey Map (indicando pain y gain points)
-* Definición de la solución/producto
-* Link a prototipo navegable
-* Explicación de cómo los contenidos y funcionalidades responden a los objetivos
-  del proyecto. 
-* Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
-  necesidades del usuario final.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores.
-
-Un video en Loom de máximo 10 minutos explicando tu documento.
-* Estos 10 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución.
-
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso:
-
-* Fotos, videos, guías de las actividades que realizaste
-* Flujo de usuario
-* Mapa de sitio
-* Etc.
-
-## Otras consideraciones
-
-### 1) Planeamiento y presupuesto
-
-Cuando realices el planeamiento de cómo enfrentarás el reto deberás sustentarlo
-ante tu cliente y ante un coach. Ellos te darán la aprobación final para seguir
-con las actividades planteadas.
-
-### 2) Definición del producto
-
-*  **Quiénes son los principales usuarios de producto**<br>
-
- Los principales usuarios de **Le Pastel Bakery** son mujeres millennials (entre los 18 y 35 años), aficionadas a los dulces, que llevan una vida activa siendo estudiantes o trabajadoras, además suelen hacer ejercicios como caminatas largas, correr, ir al gimnasio, bailar zumba. Utilizan las redes sociales como Facebook, Instagram, Snapchat, Twitter para comunicarse con frecuencia y subir fotos de las actividades que realizan.
-
-*  **Cuáles son los objetivos del negocio en relación con el producto**<br>
-
- Los objetivos del negocio **Le Pastel Bakery** son que las personas que consumen sus productos queden satisfechas con la calidad del producto elegido no solo por el sabor sino también por la presentación. También que los usuarios puedan hacer los pedidos que necesiten y recibirlos en el lugar que se encuentren sin necesidad de que vayan a la tienda físicamente. Además, los usuarios tienen la característica de subir a redes sociales lo que les gusta y así puedan compartir una foto del producto con sus amistades, lo que a su vez aumenta la posibilidad de incrementar ventas con la gente que sigue a estos usuarios al ver las recomendaciones positivas del producto y servicio. 
-
-*  **Cuáles son los objetivos de estos usuarios en relación con el producto**<br>
-
- Los objetivos de los usuarios son que el precio sea accesible, recibir al tiempo acordado su pedido, que tenga un buen sabor y mantenga esa calidad en cada pedido. 
-
-*  **Cuál será la propuesta de valor del sitio que vas a crear**<br>
-*  **Cuáles son los contenidos que el usuario quiere ver, la información que buscarían para convencerse de comprar, confiar en la empresa que lo ofrece, encontrar lo que busca y comprarlo**<br>
-*  **Cómo vas a distribuir y entregar esos contenidos**<br>
-*  **Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web**<br>
-*  **Cómo crees que el producto les está resolviendo sus problemas**<br>
-
-### 3) Prototipo de alta fidelidad
-
-Existen varias herramientas que puedes utilizar para crear tu prototipo,
-nosotros recomendamos Figma, sin embargo, eres libre de utilizar otras
-herramientas como Adobe XD, etc. Si eliges Figma tendrás que usar una
-herramienta adicional como Marvel o Invision. Recuerda que el diseño que
-trabajes debe seguir los fundamentos de visual design, como: contraste,
-alineación, jerarquía, entre otros.
+## Mock up
+(Mock up con imágenes de los prototipos finales)
 
 ## Hacker edition
 
@@ -270,4 +238,8 @@ utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y JS
 Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene que ser
 mobile-friendly. Despliega el código en GitHub Pages o Heroku.
 - Escribe un post en Medium contando tu proceso de investigación
+
+## **Gracias**
+
+![Fotoequipo](image/fotoequipo.jpeg)<br>
 
