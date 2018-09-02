@@ -111,7 +111,7 @@ Conocer lo que los usuarios valoran al realizar una compra online.
 Entender las necesidades de los usuarios.
 
 Este es el link de los audios de las entrevistas con usuarios:<br>
-:headphones: [Entrevistas a usuarios (audios)](https://soundcloud.com/patricia-vidal-136075208/sets/pasteleria-entrevistas-a)<br>
+:sound: [Entrevistas a usuarios (audios)](https://soundcloud.com/patricia-vidal-136075208/sets/pasteleria-entrevistas-a)<br>
 
 **Introducción**<br>
 Hola, Soy [Lorena o Patricia], hoy voy a conversar contigo para que me cuentes un poco sobre tus hábitos de compra.
@@ -246,7 +246,7 @@ mobile-friendly. Despliega el código en GitHub Pages o Heroku.
 - Escribe un post en Medium contando tu proceso de investigación
 
 ## **Carpeta de proyecto**
-Aquí encontrarás carpetas con los archivos expuestos en con más detalle.<br>
+Aquí encontrarás carpetas con los archivos expuestos con más detalle.<br>
 [Click aquí para abrir la version de Google Drive](https://drive.google.com/drive/folders/1Hy-bi_Bobgn6jckr-qyZ69qC8dpWXpbV?usp=sharing)
 
 ## **Gracias**
