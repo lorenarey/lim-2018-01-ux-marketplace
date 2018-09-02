@@ -1,0 +1,22 @@
+@import url("tipografia/fonts.css");
+.logo{
+   width: 150px;
+   padding-left: 30px;
+}
+
+.jumbotron-text-left{
+    height: 50px;
+    font-family: FjallaOne;
+    font-style: normal;
+}
+
+.menu{
+    cursor: pointer;
+    color:black;
+    font-family: FjallaOne;
+}
+
+menu:hover{
+    color:#358E81;
+}
+

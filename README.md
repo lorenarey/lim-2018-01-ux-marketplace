@@ -23,15 +23,22 @@ todos puedan beneficiarse en el camino.
 
 ### “Nuevo portal de e-commerce”
 
-Nos han contactado de la Asociación Nacional de Pequeños Comerciantes, una
-asociación que agrupa a pequeñas y medianas empresas productoras y fabricantes
-de alimentos naturales, postres, accesorios, vestimenta y calzado, y nos piden
-que asesoremos a **Le Pastel Bakery** en crear un portal desde donde los
-consumidores compren sus productos sin intermediarios. 
-
-La ANPC te pide que ayudes a **Le Pastel Bakery** a hacer un estudio inicial de cómo debería ser este portal de ventas y cómo deben ofrecer los productos a los consumidores. Averiguar cómo son los consumidores que utilizaría este canal de venta y cuáles son sus
-motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas
+Nos han contactado de la Asociación Nacional de Pequeños Comerciantes, para ayudar a **Le Pastel Bakery** a hacer un estudio inicial de cómo debería ser este portal de ventas y cómo deben ofrecer los productos a los consumidores. Averiguar cómo son los consumidores que utilizaría este canal de venta y cuáles son sus motivaciones, cómo es el mercado actual en el que incursionarán; y que proponerles
 una visión de cómo podría plantearse este nuevo canal de ventas.
+
+## Le Pastel Bakery
+Le Pastel Bakery es un negocio de pastelería artesanal en la ciudad de Lima, productos hechos a mano con mucho esmero brindan delicadas presentaciones para toda celebración, estos productos son hechos a pedido y se entregan de manera delivery o pick up.
+
+Este es el logo original de la empresa que usa en sus redes sociales (Facebook e Instagram)<br>
+
+![Fotologo](image/logolepastelbakery.png)<br>
+
+ Link del fan page en Facebook: [Click aquí para ver el fan page](https://www.facebook.com/lepastelbakery/)<br>
+
+ Link de Instagram: [Click aquí para ver en instagram](https://www.instagram.com/lepastelbakery/)<br>
+
+## Objetivo del proyecto
+El objetivo es fidelizar una mayor cantidad de clientes para generar más ventas por medio de un e-commerce.
 
 ## Distribución de actividades
 
@@ -47,18 +54,6 @@ una visión de cómo podría plantearse este nuevo canal de ventas.
 || Total |  290 |
 
 
-## Le Pastel Bakery
-Le Pastel Bakery es un negocio de pastelería artesanal en la ciudad de Lima, productos hechos a mano con mucho esmero brindan delicadas presentaciones para toda celebración, estos productos son hechos a pedido y se entregan de manera delivery o pick up.
-
-Este es el logo original de la empresa que usa en sus redes sociales (Facebook e Instagram)<br>
-
-![Fotologo](image/logolepastelbakery.png)<br>
-
- Link del fan page en Facebook: [Click aquí para ver el fan page](https://www.facebook.com/lepastelbakery/)<br>
-
- Link de Instagram: [Click aquí para ver en instagram](https://www.instagram.com/lepastelbakery/)<br>
-
-
 ## Planificación
 Para poder empezar a hacer todos los puntos elegidos y desarrollar el proceso de UX, tomamos en cuenta hacer una planificación en Trello y así puedan ver los pasos a seguir con límite de tiempo para cumplir con el deadline.
 
@@ -69,7 +64,7 @@ Aquí link de planificación en Trello [Click aquí](https://trello.com/b/B908O8
 ## Benchmark
 Revisando la competencia o industrias similares:
 
-![Benchmark](image/benchmark.jpg)<br>
+![Benchmark](image/benchmark.png)<br>
 
 ## Entrevista con el cliente
 
@@ -179,6 +174,8 @@ En la sección menú tienda puede encontrar una lista de todos los productos dis
 *  **Cómo crees que el producto les está resolviendo sus problemas**<br>
 El problema que resuelve es que la entrega del producto es el mismo que la foto que presentan en redes sociales, lo que también crea un ambiente de confianza al momento de realizar la acción de compra.
 
+## Árbol de contenidos
+![Arboldecontenidos](image/arboldecontenido.png)<br>
 
 ## How might we? (¿Cómo podríamos?)
  Tomamos en cuenta la información que recibimos para analizarla y poder obtener un flujo adecuado de los usuario.<br>
@@ -217,7 +214,6 @@ Ranking (iconos en forma de estrellas) una vez terminada la entrega del pedido, 
 + **¿Cómo comunicar la calidad de los insumos al usuario?**<br>
 Con un video corto del proceso de preparación.
 
-
 ## Sketch, Wireframe y Prototipo
 
 Link de las vistas de sketch para mobile y web: <br>
@@ -249,7 +245,8 @@ Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene que se
 mobile-friendly. Despliega el código en GitHub Pages o Heroku.
 - Escribe un post en Medium contando tu proceso de investigación
 
-## **Carpeta de proyecto Market Place**
+## **Carpeta de proyecto**
+Aquí encontrarás carpetas con los archivos expuestos en con más detalle.<br>
 [Click aquí para abrir la version de Google Drive](https://drive.google.com/drive/folders/1Hy-bi_Bobgn6jckr-qyZ69qC8dpWXpbV?usp=sharing)
 
 ## **Gracias**
