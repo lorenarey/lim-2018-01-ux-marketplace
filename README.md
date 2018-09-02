@@ -71,7 +71,7 @@ Revisando la competencia o industrias similares:
 
 ![Benchmark](image/benchmark.jpg)<br>
 
-## Guía de preguntas para la entrevista con el cliente
+## Entrevista con el cliente
 
 **Objetivos**<br>
 Entender la percepción que el cliente tiene sobre el valor que se generaría para su empresa  al  implementar su e-commerce.
@@ -101,7 +101,7 @@ Cuéntame sobre tu negocio
 13. Tú administras tu fan page de facebook o tienes un community manager?
 Muchas gracias por compartir con nosotras sobre tu empresa.
 
-## Conclusión de la entrevista con el cliente
+**Conclusión de la entrevista con el cliente**<br>
 Nos reunimos en un Starbucks para realizar la entrevista con nuestro cliente, el cliente fue muy amigable, colaboró respondiendo las preguntas que fueron variando según la fluidez de las respuestas que recibíamos de su parte, de modo que fue de forma más natural posible a una conversación más que a un cuestionario. **Le Pastel Bakery** es una pastelería que realiza pedidos a delivery y pick up, aún no cuenta con local, nos comentó que le gustaría mucho agregarle a su servicio que sea tipo cafetería y poder recibir a sus clientes ya que antes ella ha trabajo en contacto con el público y que su experiencia sumaría a tener un negocio más completo.<br>
 
 ![FotoEntrevista](image/fotoentrevista.jpeg)<br> 
@@ -110,7 +110,7 @@ Pudimos identificar que **Le Pastel Bakery** es su pasión, y que hace con esmer
 
 Actualmente es su hermana la que ve la línea gráfica de la empresa, quien maneja las redes sociales (facebook e instagram), toma los pedidos en whatsapp y a continuación los planifica para ser entregados en 24 horas. 
 
-## Guía de preguntas para la entrevista con el usuario 
+## Entrevista con el usuario 
 **Objetivos**<br>
 Conocer lo que los usuarios valoran al realizar una compra online.
 Entender las necesidades de los usuarios.
