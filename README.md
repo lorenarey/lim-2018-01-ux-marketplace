@@ -116,7 +116,7 @@ Conocer lo que los usuarios valoran al realizar una compra online.
 Entender las necesidades de los usuarios.
 
 Este es el link de los audios de las entrevistas con usuarios:<br>
-[Entrevistas a usuarios (audios)](https://soundcloud.com/patricia-vidal-136075208/sets/pasteleria-entrevistas-a)<br>
+:headphones: [Entrevistas a usuarios (audios)](https://soundcloud.com/patricia-vidal-136075208/sets/pasteleria-entrevistas-a)<br>
 
 **Introducción**<br>
 Hola, Soy [Lorena o Patricia], hoy voy a conversar contigo para que me cuentes un poco sobre tus hábitos de compra.
@@ -146,7 +146,6 @@ Aquí ordenamos la información relevante de las entrevistas de usuarios, selecc
 ![Afinitymap](image/afinitymap.jpeg)<br>
 
 ## User person
-Estas son las caraterísticas de nuestro user person:
 
 ![Userperson](image/userperson.png)<br>
 
@@ -166,6 +165,7 @@ Los objetivos del negocio **Le Pastel Bakery** son que las personas que consumen
 Los objetivos de los usuarios son que el precio sea accesible, recibir al tiempo acordado su pedido, que tenga un buen sabor y mantenga esa calidad en cada pedido. 
 
 *  **Cuál será la propuesta de valor del sitio que vas a crear**<br>
+La propuesta de valor que proponemos es fidelizar a los usuarios frecuentes invitándoles a que personalicen los pedidos que realizan. Los usuarios registrados pueden elegir una frase predeterminada y compartir el producto como un regalo más completo a quien desean enviar para sorprender con ese detalle. Otra propuesta de valor que ofrece **Le Pastel Bakery** es el de contestar pronto los mensajes manteniendo asi una comunicación fluida creando una relación de confianza.
 
 *  **Cuáles son los contenidos que el usuario quiere ver, la información que buscarían para convencerse de comprar, confiar en la empresa que lo ofrece, encontrar lo que busca y comprarlo**<br>
 La interacción con la empresa es basicamente visual (por web o mobile) es por ello que lo ideal es tener fotos de calidad de los productos que generen confianza por la buena presentación y los comentarios de otros usuarios frecuentes. Lo que el usuario quiere es poder ver la lista de productos para decidirse por uno de ellos para a continuación elegir el sabor y cantidad. Además que el flujo para realizar el pedido sea de fácil acceso y que sea práctico a la hora de concretar el pago.
@@ -180,7 +180,7 @@ En la sección menú tienda puede encontrar una lista de todos los productos dis
 El problema que resuelve es que la entrega del producto es el mismo que la foto que presentan en redes sociales, lo que también crea un ambiente de confianza al momento de realizar la acción de compra.
 
 
-## How might we (¿Cómo podríamos?)
+## How might we? (¿Cómo podríamos?)
  Tomamos en cuenta la información que recibimos para analizarla y poder obtener un flujo adecuado de los usuario.<br>
 
  + **¿Cómo generar confianza para que se concluya la compra?**<br>
@@ -212,20 +212,24 @@ La calidad de las fotos, la guía de colores, el vocabulario (la voz)
 Visualizando desde un inicio en la web banner con las ofertas.
 
 + **¿Cómo conseguir feedback del usuario?**<br>
-Rank (iconos de cupcakes en vez de estrellas) una vez terminada la entrega del pedido, permitir comentarios en el producto.
+Ranking (iconos en forma de estrellas) una vez terminada la entrega del pedido, permitir comentarios de otras personas abajo del producto elegido.
 
 + **¿Cómo comunicar la calidad de los insumos al usuario?**<br>
 Con un video corto del proceso de preparación.
 
 
-## Sketch (baja fidelidad)
+## Sketch, Wireframe y Prototipo
 
 Link de las vistas de sketch para mobile y web: <br>
-[Click aquí para ver sketch mobile y web](https://drive.google.com/drive/folders/1zymIPiwLwGnDxMbJs32mi2z07w6BqDVG?usp=sharing)
+[Click aquí para ver sketch mobile y web](https://drive.google.com/drive/folders/1GznXMyCEZWHnHXo0S8daCKo-GFA6CJMh?usp=sharing)
 
-## Wireframe (media fidelidad)
++ Prototipo de baja fidelidad (Sketch) 
++ Prototipo de media fidelidad (Wireframe)
++ Prototipo de alta fidelidad
 
-## Prototipo (alta fidelidad)
+![Prototipos](image/prototipos.png)<br>
+
+## Prototipo interactivo
 
 Link de las vistas con interacción de prototipo de alta fidelidad: <br>
 [Click aquí para version mobile](https://xd.adobe.com/view/031a5549-e0c7-4bdc-42fe-5845885afa81-752b/)<br>
@@ -244,6 +248,9 @@ utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y JS
 Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene que ser
 mobile-friendly. Despliega el código en GitHub Pages o Heroku.
 - Escribe un post en Medium contando tu proceso de investigación
+
+## **Carpeta de proyecto Market Place**
+[Click aquí para abrir la version de Google Drive](https://drive.google.com/drive/folders/1Hy-bi_Bobgn6jckr-qyZ69qC8dpWXpbV?usp=sharing)
 
 ## **Gracias**
 
