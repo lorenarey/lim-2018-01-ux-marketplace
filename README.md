@@ -229,14 +229,14 @@ Link de las vistas de sketch para mobile y web: <br>
 ![Prototipos](image/prototipos.png)<br>
 
 * **Testeo de Sketch**
-[Testeo 1](https://www.youtube.com/watch?v=b59j1YJEjHs&feature=youtu.be)
-[Testeo 2](https://www.youtube.com/watch?v=Kd3P_mPDPAs&feature=youtu.be)
-[Testeo 3](https://www.youtube.com/watch?v=bSiqrPpeax4&feature=youtu.be)
+[Testeo 1](https://www.youtube.com/watch?v=b59j1YJEjHs&feature=youtu.be)<br>
+[Testeo 2](https://www.youtube.com/watch?v=Kd3P_mPDPAs&feature=youtu.be)<br>
+[Testeo 3](https://www.youtube.com/watch?v=bSiqrPpeax4&feature=youtu.be)<br>
 
 ## Prototipo interactivo
 
 Link de las vistas con interacción de prototipo de alta fidelidad: <br>
-[Click aquí para version mobile](https://xd.adobe.com/view/031a5549-e0c7-4bdc-42fe-5845885afa81-752b/)<br>
+[Click aquí para version mobile](https://xd.adobe.com/view/031a5549-e0c7-4bdc-42fe-5845885afa81-752b/screen/ff38d2e8-9c41-4984-9343-abe14c6f5f60/iPhone-6-7-8-11?fullscreen)<br>
 [Click aquí para version web](https://xd.adobe.com/view/031a5549-e0c7-4bdc-42fe-5845885afa81-752b/?fullscreen)<br>
 
 * **Testeo de prototipo en alta**
