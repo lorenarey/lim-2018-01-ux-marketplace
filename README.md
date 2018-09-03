@@ -75,6 +75,9 @@ Como este trabajaría conjuntamente con su modelo de negocio existente.
 Conocer todo lo que el cliente conoce entorno a su negocio (servicios, canales de venta, sistema de envío, valor agregado ).
 Establecer objetivos esperados de diseño, obtener referencias de webs que le gusten.
 
+Este es el link del video de la entrevista con el cliente:<br>
+:sound: [Entrevista con el cliente (video)](https://www.youtube.com/watch?v=Kze9_W_4tdo&feature=youtu.be)<br>
+
 **Introducción**<br>
 Hola, Soy [Lorena o Patricia], estudiantes en laboratoria. Esta entrevista es para conocerte un poco, conocer sobre tu empresa. 
 Antes que nada, ¿estás de acuerdo con que grabemos esta entrevista? Puede ser un video o una grabación de voz. No será usada en otra cosa que no sea esta investigación, la grabación no será publicada, es solo con fines de estudio.
@@ -225,29 +228,31 @@ Link de las vistas de sketch para mobile y web: <br>
 
 ![Prototipos](image/prototipos.png)<br>
 
+* **Testeo de Sketch**
+[Testeo 1](https://www.youtube.com/watch?v=b59j1YJEjHs&feature=youtu.be)
+[Testeo 2](https://www.youtube.com/watch?v=Kd3P_mPDPAs&feature=youtu.be)
+[Testeo 3](https://www.youtube.com/watch?v=bSiqrPpeax4&feature=youtu.be)
+
 ## Prototipo interactivo
 
 Link de las vistas con interacción de prototipo de alta fidelidad: <br>
 [Click aquí para version mobile](https://xd.adobe.com/view/031a5549-e0c7-4bdc-42fe-5845885afa81-752b/)<br>
-[Click aquí para version web](https://marvelapp.com/6h2b4h1/screen/47161966)<br>
+[Click aquí para version web](https://xd.adobe.com/view/031a5549-e0c7-4bdc-42fe-5845885afa81-752b/?fullscreen)<br>
 
-## Mock up
-(Mock up con imágenes de los prototipos finales)
+* **Testeo de prototipo en alta**
+Este es el link de testeo a usuarios con el prototipo web en alta: <br>
+[Click aquí para ver el video del testeo](https://soundcloud.com/patricia-vidal-136075208/sets/test-de-prototipo)
 
-## Hacker edition
-
-- En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear tu
-propia web desde 0. 
-- Utiliza los diseños exportados en Zeplin, Handoffs o Inspects y desarróllalos
-utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y JS.
-Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene que ser
-mobile-friendly. Despliega el código en GitHub Pages o Heroku.
-- Escribe un post en Medium contando tu proceso de investigación
+## Mock up mobile y web
+![Mockupmobile](image/mockupmobile.jpg)<br>
+![Mockupweb](image/mockupweb.jpg)<br>
 
 ## **Carpeta de proyecto**
 Aquí encontrarás carpetas con los archivos expuestos con más detalle.<br>
 [Click aquí para abrir la version de Google Drive](https://drive.google.com/drive/folders/1Hy-bi_Bobgn6jckr-qyZ69qC8dpWXpbV?usp=sharing)
+
+Video en loom: <br>
+[Click aquí para ver el video en loom](https://www.useloom.com/share/0571c70916f847299696dbe022ed76e3)
 
 ## **Gracias**
 
