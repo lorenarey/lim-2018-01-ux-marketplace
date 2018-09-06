@@ -255,7 +255,7 @@ Video en loom: <br>
 [Click aquí para ver el video en loom](https://www.useloom.com/share/0571c70916f847299696dbe022ed76e3)
 
 Link para compartir el diseño con los desarrolladores:<br>
-[Click aquí para desarrolladores](https://xd.adobe.com/spec/ae9fa19e-227c-4aaf-716e-a580bf52ea53-d8ae/)
+[Click aquí para desarrolladores](https://xd.adobe.com/spec/0c72d788-ae6c-4f47-7490-6f9ab6ce536b-7a43/)
 
 ## **Gracias**
 

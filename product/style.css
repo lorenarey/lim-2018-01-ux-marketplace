@@ -1,0 +1,129 @@
+@import url("tipografia/fonts.css");
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: Quicksand;
+}
+
+.header {
+    display: flex;
+    width: 100%;
+    max-width: 1200px;
+    position: absolute;
+    padding: 20px 30px;
+    box-sizing: border-box;
+    top: 0px;
+    left: 0px;
+}
+
+H2 {
+    color: #565656;
+}
+
+.logo {
+    width: 10%;
+}
+
+.logo img {
+    width: 100%;
+}
+
+.search {
+    width: 2%;
+    padding: 5px;
+    vertical-align: middle;
+}
+
+.search img {
+    width: 100%;
+}
+
+.bag {
+    width: 2%;
+    padding: 4px;
+    vertical-align: middle;
+}
+
+.bag img {
+    width: 100%;
+}
+
+
+.nav {
+    width: 90%;
+}
+
+.menu {
+    margin: 0px;
+    padding: 0px;
+    text-align: right;
+    font-size: 16px;
+    color: #ffff;
+}
+
+.menu a {
+    color: #ffff;
+}
+
+.menu :hover {
+    color: #358E81
+}
+
+.menu li {
+    display: inline-block;
+}
+
+.menu li a {
+    display:  inline-block;
+    text-decoration: none;
+    padding: 5px 20px;
+}
+
+.hero img {
+    width: 100%;
+}
+
+.promo {
+    background-color: #FFE8E8;
+    color: #725247;
+    text-align: center;
+    padding: 15px;
+}
+
+.list {
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    margin: 15px;
+    width: 100%;
+    color: #565656;
+}
+
+.selector {
+    background-color: #DCF4EB;
+    border: 2px;
+    border-color: #358E81;
+    border-radius: 10px;
+    width: 33.3%;
+    height: 66%;
+    margin: 10px;
+}
+
+.item {
+    width: 33.3%;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.item img {
+    width: 250px;
+}
+
+.boton-comprar {
+    background-color: #358E81;
+    font-size: 18px;
+    text-align: center;
+    width: 450px;
+    padding: 20px;
+    color: #ffff;
+}
