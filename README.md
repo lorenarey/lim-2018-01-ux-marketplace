@@ -254,6 +254,9 @@ Aquí encontrarás carpetas con los archivos expuestos con más detalle.<br>
 Video en loom: <br>
 [Click aquí para ver el video en loom](https://www.useloom.com/share/0571c70916f847299696dbe022ed76e3)
 
+Link para compartir el diseño con los desarrolladores:<br>
+[Click aquí para desarrolladores](https://xd.adobe.com/spec/ae9fa19e-227c-4aaf-716e-a580bf52ea53-d8ae/)
+
 ## **Gracias**
 
 ![Fotoequipo](image/fotoequipo.jpeg)<br>
