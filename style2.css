@@ -341,8 +341,25 @@ footer {
         margin-top: 10px;
         text-align: center;
     }
+
+
+    .PhotosDescrip {
+        max-width: 600px;
+        margin: auto;
+        width: 100%;
+        display:inline;
+        justify-content: space-evenly;
+        margin-bottom: 50px;
+
+    }
     
+    .Description  {
+        display: flex;
+        padding: 10px 0px;
+    }
 }
+
+
 
 
 
